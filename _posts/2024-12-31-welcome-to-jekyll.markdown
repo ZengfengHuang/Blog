@@ -24,6 +24,8 @@ s = "Python syntax highlighting"
 print s
 ```
 
+math
+
 
 Colons can be used to align columns.
 
